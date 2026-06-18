@@ -1,6 +1,6 @@
 # Todo List Application
 
-A full-stack todo application built with Node.js, Express, MySQL, and vanilla JavaScript.
+A full-stack todo application built with Node.js, Express, MySQL, and JavaScript.
 
 ## Features
 
